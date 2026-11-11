@@ -1,0 +1,17 @@
+{
+  "source_folders": [
+    "D:\\INSTALADORES",
+    "D:\\Archivos",
+    "D:\\Files2024",
+    "C:\\Users\\Canales\\Downloads"
+  ],
+  "destination_folder": "E:\\REPOSITORIO",
+  "copy_all_files": true,
+  "hash_algorithm": "sha256",
+  "skip_symlinks": true,
+  "archive_inspection": false,
+  "preserve_empty_directories": true,
+  "overwrite": false,
+  "report_folder": "reports",
+  "data_folder": "data"
+}

@@ -1,0 +1,34 @@
+Este programa esta hecho en python (Python 3.10 o superior). Va requerir instalar unas dependencias con el PowerShell en caso muestre un error al ejecutarlo.
+
+el archivo ha ejecutar en la terminal es: main.py
+
+--------------------------------
+
+Luego saldra un Menu con opciones:
+
+La opcion 1 es para setear las carpetas donde se extaeran los programas, archivos, carpetas.
+La opcion 2 es para setear la carpeta destino (donde se van a copiar)
+
+Se debe respetar el orden indicado abajo (hasta la opcion 9):
+-------------------------------
+Este es el orden correcto de ejecución del Organizador Inteligente:
+
+Orden	Opción	Acción
+1	1	Agregar carpetas de origen (D:\filesA, D:\filesB).
+2	2	Eliminar una carpeta de origen, si fuera necesario.
+3	3	Verificar las carpetas de origen configuradas.
+4	4	Configurar la carpeta de destino (E:\REPOSITORIO).
+5	5	Escanear archivos y subcarpetas.
+6	6	Clasificar archivos y carpetas usando categorias.json.
+7	7	Detectar duplicados mediante SHA256.
+8	8	Revisar la vista previa de los archivos que se copiarán.
+9	9	Ejecutar la copia.
+10	10	Consultar reportes y exportar CSV.
+11	11	Salir.
+
+---------------------------------------
+
+IMPORTANTE: Recomendable hacerlo con carpetas medianamente pocos pesadas. Ya que cuando se trabaja con varias carpetas y el tamaño excede los 100GB el programa puede mostrar lentitud en el proceso (6,7 y 8).
+
+---------------------------------------
+
